@@ -1,0 +1,16 @@
+www/NewExperience/com/interfaces/producto.java
+ www.NewExperience.com.interfaces.producto
+www/NewExperience/com/interfaces/Info_personal.java
+ www.NewExperience.com.interfaces.Info_personal
+www/NewExperience/com/interfaces/Inicio.java
+ www.NewExperience.com.interfaces.Inicio
+www/NewExperience/com/tasks/Compra.java
+ www.NewExperience.com.tasks.Compra
+www/NewExperience/com/interfaces/buscar.java
+ www.NewExperience.com.interfaces.buscar
+www/NewExperience/com/interfaces/articulo.java
+ www.NewExperience.com.interfaces.articulo
+www/NewExperience/com/interfaces/Paginaprincipal.java
+ www.NewExperience.com.interfaces.Paginaprincipal
+www/NewExperience/com/tasks/RegistroUsuario.java
+ www.NewExperience.com.tasks.RegistroUsuario
